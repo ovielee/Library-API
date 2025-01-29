@@ -3,7 +3,7 @@
 ## Overview
 The **Library Management API** is a RESTful API that allows users to manage a library's book collection. It supports **CRUD operations** for books and enforces **rate limiting** to prevent abuse.
 
-- **Base URL**: `https://your-deployed-api.com/api/v1`
+- **Base URL**: `http://localhost:3000/api/v1/books`
 - **Version**: v1
 - **Authentication**: ❌ Not required
 - **Rate Limiting**: ✅ 100 requests per minute per IP
